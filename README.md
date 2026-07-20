@@ -356,8 +356,6 @@ This project is licensed under the GPL License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Tushar Kumar**
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
 - Email: sparrow000iv@gmail.com
 
 ## 🙏 Acknowledgments
