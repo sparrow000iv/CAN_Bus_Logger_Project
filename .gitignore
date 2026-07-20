@@ -1,0 +1,38 @@
+# Compiled files
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.cmd
+*.order
+*.symvers
+
+# Build directory
+build/
+
+# Log files
+*.log
+can_log.txt
+
+# Export files
+*.csv
+
+# Backup files
+*.bak
+*.old
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
